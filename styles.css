@@ -1,0 +1,48 @@
+html, body{
+    margin: 0;
+    background-color: gainsboro;
+    background: url(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBld2VxOTVyMTFkeDVvOTk3MW12cWNxZnBicXRnZHNlb2ducHI4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/smzfl3E7a4iHK/giphy.webp) fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Tiny5", sans-serif;
+    
+}
+
+
+#text{
+    
+    font-size: 30px;
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 0px green;
+    width: 50%;
+    margin: 0 auto;
+    font-family: "Tiny5", sans-serif;
+    
+}
+
+#banner{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 50px;
+    width: 100%;
+    background: rgb(31, 31, 31);
+    display: flex;
+    justify-content:space-evenly;
+    gap: 10px;
+}
+
+.btn-el{
+    display: block;
+    width: 250px;
+    height: 50px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: larger;
+    border: 0;
+    border-radius: 5px;
+    
+    
+}
+
