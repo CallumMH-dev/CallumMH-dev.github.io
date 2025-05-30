@@ -4,7 +4,7 @@ const btnEl1 = document.getElementById("btn2-el")
 console.log(btnEl)
 
 btnEl.addEventListener("click", function(){
-    window.open("https://github.com/CallumMH", "_blank");
+    window.open("https://github.com/CallumMH-dev", "_blank");
 })
 
 btnEl1.addEventListener("click", function(){
